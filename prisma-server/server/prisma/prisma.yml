@@ -1,0 +1,3 @@
+endpoint: ${end:PRISMA_ENDPOINT}
+datamodel: datamodel.graphql
+secret: superroot
